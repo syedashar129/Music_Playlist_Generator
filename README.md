@@ -1,1 +1,2 @@
-# platlist-generator
+# Music Playlist Generator
+
