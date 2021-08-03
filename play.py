@@ -65,14 +65,6 @@ pop2000=False
 pop2008=False
 pop2015=False
 
-'''bet so like we should prob put the in roder in list so its easy to calc when nuber eneter like 1-3 is 2000s, 3-5 is 2008s bet yeah
-Rap : 2000-2008(Snoop, Tupac, Eninem), 2009-2015(Drake, Eninem), 2016-Present(Drake, Lil Wayne and Travis Scott)
-R&B : 2000-2008 (michael jackson, usher) 2009-2015(bryson tiller), 2016-present(6lack, don, )
-Country : 2000-2008 (lee) 2009-2015(render), 2016-present(wheeler, carrie)
-Classical: -------------> all in classical era no specefic decade
-Pop: 2000-2008 (beatles, lady gaga) 2009-2015(katy perry, beyonce), 2016-present(taylor, justin)
-'''
-
 while not(Exit):
      num = int(input('Choose artists numbers and press 0 to exit: '))
      if num==0:
