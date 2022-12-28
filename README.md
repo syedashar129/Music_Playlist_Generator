@@ -1,6 +1,6 @@
 # Music_Playlist_Generator
 
-* Done from TAMUHack2020
+* Done for TAMUHack2020
 
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/73435085/116004415-3ec3e580-a5c8-11eb-84a5-d8677095430a.png)
